@@ -1,0 +1,1 @@
+Moved [to](https://github.com/cdryzun/terraform-proxmox-vm-rke-collection/tree/main/modules/terraform-rke-collection)
